@@ -1,0 +1,7 @@
+.styleExtra{
+    background: url('https://i.ibb.co/rtKx5dW/bacground.jpg'),
+    linear-gradient(rgba(163, 94, 4, 0.59), rgba(15, 10, 4, 0.539));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

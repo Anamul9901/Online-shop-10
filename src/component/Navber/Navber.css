@@ -1,0 +1,12 @@
+/* Light Mode Styles */
+.light-mode {
+    background-color: white;
+    color: black;
+  }
+  
+  /* Dark Mode Styles */
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  

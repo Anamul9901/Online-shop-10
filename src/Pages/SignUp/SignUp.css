@@ -1,0 +1,7 @@
+.styleSign{
+    background: url('https://uiparadox.co.uk/templates/ebazar/assets/media/banner/hero-banner.png'),
+    linear-gradient(rgba(234, 142, 80, 0), rgba(174, 113, 7, 0));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

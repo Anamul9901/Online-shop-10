@@ -1,0 +1,7 @@
+.styleBanner{
+    background: url(''),
+    linear-gradient(rgba(253, 225, 207, 0.652), rgba(255, 128, 0, 0.264));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

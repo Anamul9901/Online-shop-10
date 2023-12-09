@@ -1,0 +1,7 @@
+.styleBrands{
+    background: url(''),
+    linear-gradient(rgba(255, 168, 106, 0.219), rgba(248, 162, 95, 0.681));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
